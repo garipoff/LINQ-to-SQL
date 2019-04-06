@@ -1,0 +1,25 @@
+c:\users\grf\documents\visual studio 2015\Projects\Демо\Демо\bin\Debug\Демо.exe.config
+c:\users\grf\documents\visual studio 2015\Projects\Демо\Демо\bin\Debug\Демо.exe
+c:\users\grf\documents\visual studio 2015\Projects\Демо\Демо\bin\Debug\Демо.pdb
+c:\users\grf\documents\visual studio 2015\Projects\Демо\Демо\obj\Debug\Демо.csprojResolveAssemblyReference.cache
+c:\users\grf\documents\visual studio 2015\Projects\Демо\Демо\obj\Debug\Демо.Form1.resources
+c:\users\grf\documents\visual studio 2015\Projects\Демо\Демо\obj\Debug\Демо.Properties.Resources.resources
+c:\users\grf\documents\visual studio 2015\Projects\Демо\Демо\obj\Debug\Демо.csproj.GenerateResource.Cache
+c:\users\grf\documents\visual studio 2015\Projects\Демо\Демо\obj\Debug\Демо.exe
+c:\users\grf\documents\visual studio 2015\Projects\Демо\Демо\obj\Debug\Демо.pdb
+C:\Users\grf\Desktop\Демо\Демо\bin\Debug\Демо.exe.config
+C:\Users\grf\Desktop\Демо\Демо\obj\Debug\Демо.exe
+C:\Users\grf\Desktop\Демо\Демо\obj\Debug\Демо.pdb
+C:\Users\grf\Desktop\Демо\Демо\bin\Debug\Демо.exe
+C:\Users\grf\Desktop\Демо\Демо\bin\Debug\Демо.pdb
+C:\Users\grf\Desktop\Демо\Демо\obj\Debug\Демо.csprojResolveAssemblyReference.cache
+C:\Users\grf\Desktop\Демо\Демо\obj\Debug\Демо.Form1.resources
+C:\Users\grf\Desktop\Демо\Демо\obj\Debug\Демо.Properties.Resources.resources
+C:\Users\grf\Desktop\Демо\Демо\obj\Debug\Демо.csproj.GenerateResource.Cache
+C:\Users\grf\Desktop\Демо\Демо\bin\Debug\users.mdf
+C:\Users\grf\Desktop\Демо\Демо\bin\Debug\users_log.ldf
+C:\Users\grf\Desktop\Демо\Демо\obj\Debug\Демо.TrustInfo.xml
+C:\Users\grf\Desktop\Демо\Демо\bin\Debug\Демо.exe.manifest
+C:\Users\grf\Desktop\Демо\Демо\bin\Debug\Демо.application
+C:\Users\grf\Desktop\Демо\Демо\obj\Debug\Демо.exe.manifest
+C:\Users\grf\Desktop\Демо\Демо\obj\Debug\Демо.application

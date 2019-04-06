@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="users" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\users.mdf;Integrated Security=True;Connect Timeout=30" SettingsObjectName="Демо.Properties.Settings" SettingsPropertyName="usersConnectionString1" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Пациент" Member="Пациент">
+    <Type Name="Пациент">
+      <Column Name="id_Пациента" Type="System.Decimal" DbType="Decimal(6,0) NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Фамилия" Type="System.String" DbType="VarChar(30) NOT NULL" CanBeNull="false" />
+      <Column Name="Возраст" Type="System.Decimal" DbType="Decimal(6,0) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>
